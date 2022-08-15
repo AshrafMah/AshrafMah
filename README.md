@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashraf Mahmoud.
 - 🌱 I'm studying Communication and Electronics Engineering.
-- 👀 I’m interested in Technology, Programming and CyperSecurity and Embedded Systems.
-- 🌱 I’m currently Taking Course in Python.
+- 👀 I’m interested in Technology, Programming, ML and Embedded Systems.
+- 🌱 I’m currently Taking Course in Data Science.
 - 💞️ I’m looking to collaborate on projects, sharing new ideas and solve problems.
 
 <!---
